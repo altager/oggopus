@@ -1,4 +1,4 @@
-# oggopus
+# [WIP] oggopus
 
 Native decoder for ogg/opus.
 
@@ -25,3 +25,4 @@ Example:
 - better docs
 - more tests
 - refactor
+- improvements
